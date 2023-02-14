@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(28, 129, 136);
+    
+}
+
+h1{
+   color: rgb(15, 15, 194);
+}
+
+label{
+    color: rgb(5, 5, 192);
+}
+
+#submit{
+    background-color: #140a6b;
+    color: white;
+}
+
+input{
+  width: 25%;
+  padding: 6px 12px;
+  margin: 1px 10;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
